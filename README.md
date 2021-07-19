@@ -21,4 +21,6 @@ In this exercise, you need to further develop the Hello World application collec
 * Enable the collection of Python logs at the `DEBUG` level. Refer to the logging Python module for more details.
 
 # Exercise: CI demo with GitHub Actions
-Add GitHub Actions demonstration to the repository in which trigger unit test on every push to GitHub
+Add GitHub Actions demonstration to the repository in which on every push to GitHub
+* trigger unit test with `pytest`
+* trigger docker image build and push to DockerHub
