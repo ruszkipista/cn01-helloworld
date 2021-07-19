@@ -20,5 +20,5 @@ In this exercise, you need to further develop the Hello World application collec
 * The logs should be stored in a file with the name app.log. Refer to the [logging](https://docs.python.org/3/library/logging.html#logging.basicConfig) Python module for more details.
 * Enable the collection of Python logs at the `DEBUG` level. Refer to the logging Python module for more details.
 
-# Exercise: Application Logging
+# Exercise: CI demo with GitHub Actions
 Add GitHub Actions demonstration to the repository in which trigger unit test on every push to GitHub
