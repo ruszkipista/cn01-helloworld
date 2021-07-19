@@ -19,3 +19,6 @@ In this exercise, you need to further develop the Hello World application collec
 * A log line should be recorded the timestamp and the requested endpoint e.g. `{{TIMESTAMP}}, {{ ENDPOINT_NAME}} endpoint was reached`
 * The logs should be stored in a file with the name app.log. Refer to the [logging](https://docs.python.org/3/library/logging.html#logging.basicConfig) Python module for more details.
 * Enable the collection of Python logs at the `DEBUG` level. Refer to the logging Python module for more details.
+
+# Exercise: Application Logging
+Add GitHub Actions demonstration to the repository in which trigger unit test on every push to GitHub
